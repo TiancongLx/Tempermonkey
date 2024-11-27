@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Twitter/X Auto Dark Theme Switch
-// @version      0.1.6
+// @version      0.1.7
 // @description  Enhanced theme management for Twitter/X with native support detection and fallback
-// @icon         https://raw.githubusercontent.com/TiancongLx/Tempermonkey/refs/heads/main/icons/twitter-x-line.png
+// @icon         https://raw.githubusercontent.com/TiancongLx/Tempermonkey/refs/heads/main/twitter_auto_dark_theme_switch/icon_X.png
 // @license      WTFPL
 // @author       Original: 13xforever, Enhanced: tianconglx
 // @match        https://twitter.com/*
